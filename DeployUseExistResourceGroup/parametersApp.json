@@ -1,0 +1,48 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "appServiceName": {
+      "value": "mysecbot001"
+    },
+    "existingAppServicePlanName": {
+      "value": ""
+    },
+    "existingAppServicePlanLocation": {
+      "value": ""
+    },
+    "newAppServicePlanName": {
+      "value": "asp-xx-xx"
+    },
+    "newAppServicePlanLocation": {
+      "value": "westeurope"
+    },
+    "newAppServicePlanSku": {
+      "value": {
+        "name": "P1V3",
+        "tier": "PremiumV3",
+        "size": "P1V3",
+        "family": "P",
+        "capacity": 1
+      }
+    },
+    "appType": {
+      "value": "SingleTenant"
+    },
+    "appId": {
+      "value": "xxxxxxxxxxxxxxxxx"
+    },
+    "appSecret": {
+      "value": "xxxxxxxxxxxxxxxxxxxx"
+    },
+    "UMSIName": {
+      "value": ""
+    },
+    "UMSIResourceGroupName": {
+      "value": ""
+    },
+    "tenantId": {
+      "value": "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    }
+  }
+}
