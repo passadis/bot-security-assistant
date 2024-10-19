@@ -42,5 +42,6 @@ We encourage contributions! If you have ideas on how to improve this application
 
 ## Architecture
 
-![SemanticArchitecture1](https://github.com/passadis/learning-aid/assets/53148138/9bab4863-e7b8-42cc-a9ff-fc4ca2d5c66d)
+![Architecturenew](https://github.com/user-attachments/assets/45f4d564-045b-4440-886b-38cc01fbbe5e)
+
 
